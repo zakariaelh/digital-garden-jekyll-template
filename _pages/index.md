@@ -5,10 +5,18 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Hi! 🌱
 
 
-My name is Zakaria. 
+My name is Zakaria. A lot of people call me Zak. I prefer the former though.
+
+I enjoy building small apps that make my life a little easier.
+
+I also like to build theoritical models about the world and validate them. 
+
+I enjoy skiing, kite-surfing and anything water-related. 
+
+Welcome to my little part of the world!
 
 
 <strong>Recently updated notes</strong>
