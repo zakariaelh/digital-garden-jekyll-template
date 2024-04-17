@@ -1,4 +1,5 @@
 ---
+title: Intentional consumption
 ---
 
 Consuming 100 calories (e.g. a brownie) is easier than burning 100 calories. Spending $100 is easier than making $100. Listening to music for an hour is easier than meditating for an hour.
