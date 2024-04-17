@@ -4,7 +4,7 @@ title: Intentional consumption
 
 Consuming 100 calories (e.g. a brownie) is easier than burning 100 calories. Spending $100 is easier than making $100. Listening to music for an hour is easier than meditating for an hour.
 
-The world today is designed such that consumption is significantly easier than production[^1]. It is the path of least resistance. One ought to be aware when they’re engaging in one vs the other. 
+The world today is designed such that consumption is significantly easier than production.[^1] It is the path of least resistance. One ought to be aware when they’re engaging in one vs the other. 
 
 Consumption acts take as input our mental headspace and reward us immediately with happy chemicals (or numbing). Consumption is when you reach for your phone when you wake up. Consumption is playing that podcast as soon as you hop on the bus. Consumption is mindlessly spending time with your partner on the couch. 
 
@@ -18,4 +18,4 @@ Without self-awareness or accountability, consumption can fully “consume” ou
 
 Choose intentional consumption. 
 
-[^1] I can’t fully say why that’s the case, but my guess is that consumption goods and services are competing for our attention, and hence were designed with the least friction possible. 
+[^1]: I can’t fully say why that’s the case, but my guess is that consumption goods and services are competing for our attention, and hence were designed with the least friction possible. 
