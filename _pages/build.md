@@ -4,4 +4,8 @@ title: Stuff I built.
 permalink: /build
 ---
 
-Stuff I built.
+- Xplnai
+- Golden DJ 
+- Smplr
+- zakslist
+- Songbee

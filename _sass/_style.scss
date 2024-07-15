@@ -105,8 +105,10 @@ a {
   color: black !important;
 }
 
-nav {
-  margin: 1em 0 3em;
+nav img {
+  width: 1em;
+  height: 1em;
+  display: inline;
 }
 
 #notes-entry-container {

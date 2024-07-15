@@ -21,5 +21,7 @@ I <a class="internal-link" href="{{ site.baseurl }}/consulting"> consult in AI <
 
 I <a href="https://linkedin.com/in/zakariaelhjouji"> play status games </a>.
 
-I meet new people.
+I am open to meeting new people.
+
+
 
