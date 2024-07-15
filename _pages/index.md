@@ -9,7 +9,7 @@ permalink: /
 
 I am Zakaria.
 
-I <a href=https://zakariae.substack.com>think</a>.
+I <a href="https://zakariae.substack.com">think</a>.
 
 I <a class="internal-link" href="{{ site.baseurl }}/learn">learn</a>.
 
