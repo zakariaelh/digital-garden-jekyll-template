@@ -10,6 +10,6 @@
       script-src 'self' https://xplnailib.netlify.app;
       style-src 'self' 'unsafe-inline' https://xplnailib.netlify.app https://fonts.googleapis.com;
       frame-src 'self' https://xplnailib.netlify.app;
-      connect-src 'self' https://cbd-backend-staging-iawspfb2ha-ww.a.run.app;
+      connect-src 'self' https://cbd-backend-staging-iawspfb2ha-ww.a.run.app https://xplnailib.netlify.app;
       font-src 'self' https://fonts.gstatic.com;
     """
