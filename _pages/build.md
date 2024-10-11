@@ -26,7 +26,7 @@ This is by far my favorite project, and also the most useful AI tool I use, afte
 
 It's also the first project I made $1 on the internet with. 
 
-- Golden DJ (code)
+- Golden DJ [code](https://github.com/zakariaelh/goldendj)
 
 Golden DJ is an AI agent you can call over the phone to chat. It can also take song requests and play them over telephony. 
 
@@ -34,7 +34,7 @@ Project started at an AI hackathon (which we won). This was Omar and I's attempt
 
 While the MVP took a few hours to build, cleaning it up took a few days. 
 
-- smplr (code)
+- smplr [code](https://github.com/zakariaelh/smplr)
 
 End-to-end platform for generating voice clone samples.
 
