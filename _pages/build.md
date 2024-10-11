@@ -8,7 +8,7 @@ Below is a list of my side projects. Most of them are no longer accessible but t
 
 I have a place in my heart for each project. If any sounds interesting to you, and want to contribute, please reach out. I'd gladly support. 
 
-- Explain AI 
+- Explain AI [website](https://xplnai.com)
 
 The first AI Dictionary! Highlight any text to get contextual explanations. 
 
