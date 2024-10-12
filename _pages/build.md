@@ -8,7 +8,9 @@ Below is a list of my side projects. Most of them are no longer accessible but t
 
 I have a place in my heart for each project. If any sounds interesting to you, and want to contribute, please reach out. I'd gladly support. 
 
-- Explain AI [website](https://xplnai.com)
+## Explain AI 
+{% include pill.html pill_type="website" url="https://xplnai.com" %}
+
 
 The first AI Dictionary! Highlight any text to get contextual explanations. 
 
@@ -26,7 +28,8 @@ This is by far my favorite project, and also the most useful AI tool I use, afte
 
 It's also the first project I made $1 on the internet with. 
 
-- Golden DJ [code](https://github.com/zakariaelh/goldendj)
+## Golden DJ 
+{% include pill.html pill_type="code" url="https://github.com/zakariaelh/goldendj" %}
 
 Golden DJ is an AI agent you can call over the phone to chat. It can also take song requests and play them over telephony. 
 
@@ -34,7 +37,8 @@ Project started at an AI hackathon (which we won). This was Omar and I's attempt
 
 While the MVP took a few hours to build, cleaning it up took a few days. 
 
-- smplr [code](https://github.com/zakariaelh/smplr)
+## smplr 
+{% include pill.html pill_type="code" url="https://github.com/zakariaelh/smplr" %}
 
 End-to-end platform for generating voice clone samples.
 
@@ -51,7 +55,7 @@ I was suprised by how much it got used. I got a bill of $100 from Modal within t
 
 SMPLR is now down. Youtube started blocking all video downloads. Though I patched it upon request, the patch didn't stick for long.
 
-- zakslist
+## zakslist
 
 Craigslist has the best apartment deals in SF (by far). It's also really hard to find good apartments there. 
 
@@ -69,7 +73,7 @@ And that's how I found my place in the best neighborhood in SF.
 
 I have tried many times to productionize it but never pushed it to the finish line.
 
-- songbee
+## songbee
 
 When C taught Yoga, she'd take song requests from her students over text. It used to get quite messy. 
 

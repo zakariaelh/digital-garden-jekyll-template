@@ -147,3 +147,18 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+.pill {
+  display: inline-block;
+  padding: 2.5px 10px;
+  border-radius: 25px;
+  font-size: 9px;
+}
+
+.pill.website {
+  background-color: #69c157;
+}
+
+.pill.code {
+  background-color: #bcdcff;
+}
