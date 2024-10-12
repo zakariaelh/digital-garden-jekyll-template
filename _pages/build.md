@@ -16,9 +16,9 @@ The first AI Dictionary! Highlight any text to get contextual explanations.
 
 Want to give it a try? In the text below, highlight FLOP and click on the small tooltip. 
 
-- Modern AI models require billions of FLOPs to process a single input, showcasing their computational intensity.
+- Modern AI models require billions of <u>FLOPs</u> to process a single input, showcasing their computational intensity.
 
-- After the new product launch, the marketing team was disappointed to see their campaign flops, resulting in lower-than-expected sales.
+- After the new product launch, the marketing team was disappointed to see their campaign <u>flops</u>, resulting in lower-than-expected sales.
 
 Magical, hein? 
 
